@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/HichuYamichu/gRPC-chat/proto"
+	"github.com/hichuyamichu/gRPC-chat/proto"
 	"google.golang.org/grpc"
 )
 

@@ -8,7 +8,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/HichuYamichu/gRPC-chat/proto"
+	"github.com/hichuyamichu/gRPC-chat/proto"
 	"github.com/jroimartin/gocui"
 	"google.golang.org/grpc"
 )
